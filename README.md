@@ -15,7 +15,7 @@
 
 <!-- Duplicate this block for each project you want to show off -->
 
-### 🔹 [Python Vulnerability Scanner](https://github.com/YOUR-USERNAME/YOUR-REPO)
+### 🔹 [Python Vulnerability Scanner](https://github.com/WentengLin/VulnerabilityScanner)
 **Tools & Skills:**  Python, Sockets, Networking, Security, JSON/CSV, Argparse   
 **Key features:**
 - Created a Python tool that performs TCP port scanning and banner grabbing using raw sockets
