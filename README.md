@@ -16,21 +16,21 @@
 <!-- Duplicate this block for each project you want to show off -->
 
 ### 🔹 [Python Vulnerability Scanner](https://github.com/YOUR-USERNAME/YOUR-REPO)
-**Tools & Skills:**  Python, Sockets, Networking, Security, JSON/CSV, Argparse  
-**What it does:** 1–2 sentences about the project.  
+**Tools & Skills:**  Python, Sockets, Networking, Security, JSON/CSV, Argparse   
 **Key features:**
-- ✅ Feature 1
-- ✅ Feature 2
-- ✅ Feature 3
+- Created a Python tool that performs TCP port scanning and banner grabbing using raw sockets
+- Implemented CVE lookup via JSON fingerprints to identify vulnerable services
+- Added CLI support with argparse and export to JSON/CSV
+- Used networking fundamentals like timeouts, socket errors, TCP handshakes, and service probing
 
 ---
 
 ### 🔹 [Password Strength Analyzer and Hashing Tool](https://github.com/YOUR-USERNAME/YOUR-OTHER-REPO)
 **Tools & Skills:** Python, Hashlab, SHA-256.  
-**What it does:** short description.  
 **Key features:**
-- ✅ Feature 1
-- ✅ Feature 2
+- Developed a Python-based password analyzer that evaluates strength (length, character types, sequences,
+repetition) and prints human-readable security recommendations.
+- Implemented salted SHA-256 hashing and Base64 encoding for secure password storage and verification.
 
 ---
 
@@ -45,11 +45,8 @@
 
 ## 📫 Contact
 
-- ✉️ Email: YOUR.EMAIL@EXAMPLE.COM  
-- 💼 LinkedIn: [Your Name](https://www.linkedin.com/in/YOUR-LINK)  
+- ✉️ Email: wenteng9@gmail.com  
+- 💼 LinkedIn: [Wenteng Lin](https://www.linkedin.com/in/wenteng-lin-a7b974242/)  
 - 🌐 Portfolio (if any): https://your-portfolio.com  
 
 ---
-
-<!-- Optional fun line -->
-⭐️ From [YOUR NAME](https://github.com/YOUR-USERNAME) – thanks for visiting!
