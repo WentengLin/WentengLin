@@ -6,7 +6,7 @@
 <p align="center">
   🎓 STUDENT AT The University of Central Florida (UCF) · 🌍 Based in Orlando, Florida 
   <br/>
-  💻 Interested in: CYBERSECURITY · SOFTWARE DEV · OTHER INTERESTS  
+  💻 Interested in: CYBERSECURITY · SOFTWARE DEV 
 </p>
 
 ---
@@ -25,7 +25,7 @@
 
 ---
 
-### 🔹 [Password Strength Analyzer and Hashing Tool](https://github.com/YOUR-USERNAME/YOUR-OTHER-REPO)
+### 🔹 [Password Strength Analyzer and Hashing Tool](https://github.com/WentengLin/PasswordAnalyzer)
 **Tools & Skills:** Python, Hashlab, SHA-256.  
 **Key features:**
 - Developed a Python-based password analyzer that evaluates strength (length, character types, sequences,
