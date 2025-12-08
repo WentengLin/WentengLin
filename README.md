@@ -47,6 +47,5 @@ repetition) and prints human-readable security recommendations.
 
 - ✉️ Email: wenteng9@gmail.com  
 - 💼 LinkedIn: [Wenteng Lin](https://www.linkedin.com/in/wenteng-lin-a7b974242/)  
-- 🌐 Portfolio (if any): https://your-portfolio.com  
 
 ---
