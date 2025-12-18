@@ -34,15 +34,6 @@ repetition) and prints human-readable security recommendations.
 
 ---
 
-
-## 🎯 Goals
-
-- 📚 Short-term: e.g., build X projects, learn Y technology  
-- 🧪 Medium-term: e.g., get an internship in Z field  
-- 🌟 Long-term: e.g., become a cybersecurity engineer / software developer
-
----
-
 ## 📫 Contact
 
 - ✉️ Email: wenteng9@gmail.com  
