@@ -25,8 +25,8 @@
 
 ---
 
-### 🔹 [Password Strength Analyzer and Hashing Tool](https://github.com/WentengLin/PasswordAnalyzer)
-**Tools & Skills:** Python, Hashlab, SHA-256.  
+### 🔹 [Static Malware Analyzer](https://github.com/WentengLin/PasswordAnalyzer)
+**Tools & Skills:** Python, Hashlab, SHA-256
 **Key features:**
 - Developed a Python-based password analyzer that evaluates strength (length, character types, sequences,
 repetition) and prints human-readable security recommendations.
@@ -34,6 +34,15 @@ repetition) and prints human-readable security recommendations.
 
 ---
 
+### 🔹 [Password Strength Analyzer and Hashing Tool](https://github.com/WentengLin/StaticMalwareAnalyzer/tree/main)
+**Tools & Skills:** Python, Malware Analysis, Static Analysis, PEfile, Regex, Security, JSON, Argparse
+**Key features:**
+- Built a Python-based static malware analysis tool to inspect executable files without execution
+- Extracted file metadata and cryptographic hashes (MD5, SHA1, SHA256) for malware identification
+- Parsed Windows PE imports using pefile and flagged suspicious API calls commonly used by malware
+- Implemented string extraction and regex-based IOC detection (IPs, domains, URLs) with structured JSON output
+
+---
 ## 📫 Contact
 
 - ✉️ Email: wenteng9@gmail.com  
